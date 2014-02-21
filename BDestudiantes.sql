@@ -13,7 +13,10 @@ CREATE TABLE estudiante (
 select *from estudiante;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6b9adb12174f976eb198763ec270bc47de72e7bf
 =======
 >>>>>>> 6b9adb12174f976eb198763ec270bc47de72e7bf
 INSERT INTO estudiante VALUES (0001,'Steven','Alvarado Castro','206340231','steven.a@gmail.com','87653409');
@@ -21,6 +24,9 @@ INSERT INTO estudiante VALUES (0002,'Carlos','Villalobos Gutiérrez','207210543'
 INSERT INTO estudiante VALUES (0003,'Fabiana','Pérez Arroyo','207200432','fabi12.p@gmail.com','71902453');
 INSERT INTO estudiante VALUES (0004,'Yahaira','Cardenas Castillo','207430938','yahaira_carca1@gmail.com','85674312');
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6b9adb12174f976eb198763ec270bc47de72e7bf
 =======
 >>>>>>> 6b9adb12174f976eb198763ec270bc47de72e7bf
