@@ -14,7 +14,13 @@ select *from estudiante;
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6b9adb12174f976eb198763ec270bc47de72e7bf
+=======
+>>>>>>> 6b9adb12174f976eb198763ec270bc47de72e7bf
 =======
 >>>>>>> 6b9adb12174f976eb198763ec270bc47de72e7bf
 =======
@@ -25,7 +31,13 @@ INSERT INTO estudiante VALUES (0003,'Fabiana','Pérez Arroyo','207200432','fabi1
 INSERT INTO estudiante VALUES (0004,'Yahaira','Cardenas Castillo','207430938','yahaira_carca1@gmail.com','85674312');
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6b9adb12174f976eb198763ec270bc47de72e7bf
+=======
+>>>>>>> 6b9adb12174f976eb198763ec270bc47de72e7bf
 =======
 >>>>>>> 6b9adb12174f976eb198763ec270bc47de72e7bf
 =======
