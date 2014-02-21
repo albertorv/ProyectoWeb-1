@@ -12,10 +12,6 @@ CREATE TABLE estudiante (
 
 select *from estudiante;
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 6b9adb12174f976eb198763ec270bc47de72e7bf
 INSERT INTO estudiante VALUES (0001,'Steven','Alvarado Castro','206340231','steven.a@gmail.com','87653409');
 INSERT INTO estudiante VALUES (0002,'Carlos','Villalobos Gutiérrez','207210543','villalobos.cg@gmail.com','61239853');
 INSERT INTO estudiante VALUES (0003,'Fabiana','Pérez Arroyo','207200432','fabi12.p@gmail.com','71902453');
