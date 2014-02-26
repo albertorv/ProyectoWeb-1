@@ -9,12 +9,6 @@
 	$archivo = fopen($fecha."csv", "a") or die("Problemas en la creación del archivo");
 	fwrite($archivo, $nombre.";".$apellido.";".$cedula.";".$email.";".$telefono."\n");
 	fclose($archivo);
-	
-
-	
-
-
-
 
 	/*$link = mysql_connect('mysql_host', 'root', '12345');
 	print_r($est);
@@ -24,6 +18,10 @@
 	$conexion = mysql_connect("localhost", "root","12345");
 	mysql_database("estudiantes",$conexion);
 	$q = mysql_query("select * from estudiante",$conexion);*/
+
+
+
+
 
 
  ?>
