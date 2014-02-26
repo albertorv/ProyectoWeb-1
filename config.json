@@ -1,20 +1,18 @@
-{
-	"Conexion":
-	{
-		Server:"localhost",
-		User:"root",
-		Password:"12345",
-		DB:"estudiantes"
-	},
-	"Correos"
-	[ 
-		{
-			Correo:"",
-			Contraseña:"",
-			Servidor:"",
-			Cuenta:""
-		},
+[
+    "Conexion"
+    {
+        "Server": "localhost",
+        "User": "root",
+        "Pass": "12345",
+        "DB": "estudiantes"
+    },
+    "Email"
+    {
+        "Correo": "",
+        "Contrasena": "",
+        "SMTP": "",
+        "Cuenta:""
+    },
+   
+]
 
-	]
-
-}
