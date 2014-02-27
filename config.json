@@ -1,0 +1,18 @@
+[
+    "Conexion"
+    {
+        "Server":"localhost",
+        "User":"root",
+        "Pass":"12345",
+        "DB":"estudiantes"
+    },
+    "Email"
+    {
+        "Correo":"",
+        "Contrasena":"",
+        "SMTP":"",
+        "Cuenta:""
+    },
+   
+]
+
