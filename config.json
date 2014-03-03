@@ -1,18 +1,17 @@
-[
-    "Conexion"
+{
+    "Conexion":
     {
         "Server":"localhost",
         "User":"root",
         "Pass":"12345",
         "DB":"estudiantes"
     },
-    "Email"
+    "Email":
     {
-        "Correo":"",
+        "Correo":"albertorv.07@gmail.com",
         "Contrasena":"",
-        "SMTP":"",
-        "Cuenta:""
-    },
-   
-]
+        "SMTP":"smtp.gmail.com",
+        "Cuenta:"albertorv.07@gmail.com"
+    }
+}
 
